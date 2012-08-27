@@ -9,7 +9,7 @@ This program provides a simple way to add that capabilty to your Data centre.
 It provides a HTTP GET URL that can be visited in browser to check whether various members
 of the Voldemort cluster are up or down.
 
-The program is takes two command line arguments:
+The program takes two command line arguments:
 
 * HTTP Port number.
 * A Java properties file that lists bootstrap URLs of Voldemort Cluster(s) that are to be monitored.
